@@ -34,7 +34,7 @@
 
 ### 📝 Latest Blog Articles
 
-Coming Soon via [DevOps Diaries](https://abdulraheem.hashnode.dev)
+Check out:- [DevOps Diaries](https://abdulraheem.hashnode.dev)
 
 ---
 
@@ -42,6 +42,7 @@ Coming Soon via [DevOps Diaries](https://abdulraheem.hashnode.dev)
 
 - 📧 shadowpulse.pentest@gmail.com  
 - 🧠 Hashnode: [abdulraheem.hashnode.dev](https://abdulraheem.hashnode.dev)
+- Linkdin: [My Linkdin Profile](inkedin.com/in/abdul-raheem-devops)
 
 ---
 
