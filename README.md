@@ -1,48 +1,51 @@
-# Hi, I'm Abdul Raheem 👋
-
-🎯 Data Scientist | Machine Learning Engineer | Open Source Contributor
+<h1 align="center">Hi, I'm Abdul Raheem 👋</h1>
+<p align="center">
+  🚀 Cloud DevOps Engineer | AWS Infra Automation | Open Source Enthusiast
+</p>
 
 ---
 
-### 🧠 About Me
+### 👨‍💻 About Me
 
-- I build data-driven solutions that solve real-world business problems.
-- Skilled in turning raw data into actionable insights using **Python, SQL, and Machine Learning**.
-- I enjoy building **end-to-end ML pipelines**, from data cleaning to model deployment.
-- Open to collaborations on data science, ML, and analytics projects.
+- 🔧 I specialize in automating AWS infrastructure with **Terraform**, **GitHub Actions**, and **CI/CD**.
+- 🎯 Currently building a [DevOps Project Portfolio](https://github.com/abdulraheem381/DevOps-portfolio) with **real-world AWS use-cases**.
+- 📚 Learning in public via my blog → [DevOps Diaries](https://abdulraheem.hashnode.dev)
+- 💼 Open to DevOps/Cloud roles and collaborations.
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages**: Python · SQL  
-**Libraries**: Pandas · NumPy · Matplotlib · Seaborn · Scikit-Learn · XGBoost · TensorFlow  
-**Tools**: Jupyter · Git · GitHub · VS Code  
-**Cloud & Deployment**: AWS (S3, EC2, SageMaker) · Docker · GitHub Actions  
-**Concepts**: Machine Learning · Data Cleaning · EDA · Model Training · MLOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 📁 Featured Work
+### 📌 Featured Work
 
-- 📊 [Data Science Portfolio](#) – Projects showcasing real-world use-cases, EDA, and predictive modeling.
-- 🤖 [ML Projects](#) – End-to-end ML pipelines with feature engineering, model evaluation, and deployment.
-- 🧠 [100 Days of Code – Python](https://github.com/abdulraheem381/100-days-of-code-python) – A structured coding challenge focusing on Python and ML tools.
-
----
-
-### ✍️ Latest Blog Articles
-
-- [Data Diaries](#) – Insights, lessons, and solutions from real-world projects.
+- 📂 [DevOps Portfolio](https://github.com/abdulraheem381/DevOps-portfolio) – A collection of AWS + DevOps projects with CI/CD, Infrastructure as Code, and automation.
+- 🐍 [100 Days of Code – Python](https://github.com/abdulraheem381/100-days-of-code-python) – Python journey through Dr. Angela Yu’s bootcamp.
 
 ---
 
-### 🔗 Connect With Me
+### 📝 Latest Blog Articles
 
-- 📧 [shadowpulse.pentest@gmail.com](mailto:shadowpulse.pentest@gmail.com)  
-- 📝 [Hashnode: abdulraheem.hashnode.dev](https://abdulraheem.hashnode.dev)  
-- 💼 [LinkedIn: My Profile](#)
+Check out:- [DevOps Diaries](https://abdulraheem.hashnode.dev)
 
 ---
 
-📌 *Data is the new oil — and I refine it into intelligent solutions.*
+### 📫 Connect With Me
+
+- 📧 shadowpulse.pentest@gmail.com  
+- 🧠 Hashnode: [abdulraheem.hashnode.dev](https://abdulraheem.hashnode.dev)
+- Linkdin: [My Linkdin Profile](inkedin.com/in/abdul-raheem-devops/)
+
+---
+
+<p align="center">
+  ⚡ Building the future, one YAML file at a time.
+</p>
