@@ -42,7 +42,7 @@ Check out:- [DevOps Diaries](https://abdulraheem.hashnode.dev)
 
 - 📧 shadowpulse.pentest@gmail.com  
 - 🧠 Hashnode: [abdulraheem.hashnode.dev](https://abdulraheem.hashnode.dev)
-- ⚡ X(Twitter): [My X Profile]([inkedin.com/in/abdul-raheem-devops/](https://x.com/Abdulraheem183))
+- ⚡ X(Twitter): [My X Profile](https://x.com/Abdulraheem183)
 
 ---
 
