@@ -9,7 +9,7 @@
 
 - 🔧 I specialize in automating AWS infrastructure with **Terraform**, **GitHub Actions**, and **CI/CD**.
 - 🎯 Currently building a [DevOps Project Portfolio](https://github.com/abdulraheem381/DevOps-portfolio) with **real-world AWS use-cases**.
-- 📚 Learning in public via my blog → [DevOps Diaries](https://abdulraheem.hashnode.dev)
+- 📚 Learning in public via my blog → [DevOps Diaries](https://blog.abdulraheem.cloud)
 - 💼 Open to DevOps/Cloud roles and collaborations.
 
 ---
@@ -41,7 +41,7 @@
 
 ### 📝 Latest Blog Articles
 
-Check out:- [DevOps Diaries](https://abdulraheem.hashnode.dev)
+Check out:- [DevOps Diaries](https://abdulraheem.cloud)
 
 ---
 
