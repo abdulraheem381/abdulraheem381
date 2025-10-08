@@ -12,7 +12,7 @@
 - 📚 Sharing my learning journey through blogs — [**DevOps Diaries**](https://blog.abdulraheem.cloud).  
 - 💼 Currently building my [**DevOps Project Portfolio**](https://github.com/abdulraheem381/DevOps-portfolio) — hands-on projects with real-world AWS use cases.  
 - 🌱 Learning **Kubernetes**, **Monitoring (Prometheus + Grafana)**, and **advanced CI/CD orchestration**.  
-- 🤝 Open to collaborations, mentorship, and remote DevOps/Cloud roles.  
+- 🤝 Open to collaborations, and remote DevOps/Cloud roles.  
 
 ---
 
@@ -57,7 +57,7 @@ _Hands-on Python projects and exercises following Dr. Angela Yu’s bootcamp._
 ### 🌐 Connect With Me  
 
 📧 **Email:** shadowpulse.pentest@gmail.com  
-🧠 **Blog:** [abdulraheem.hashnode.dev](https://abdulraheem.hashnode.dev)  
+🧠 **Blog:** [abdulraheem.hashnode.dev](https://blog.abdulraheem.cloud)  
 🐦 **Twitter/X:** [@Abdulraheem183](https://x.com/Abdulraheem183)  
 💼 **Portfolio:** [abdulraheem.cloud](https://abdulraheem.cloud)
 
