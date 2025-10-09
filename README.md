@@ -10,7 +10,7 @@
 - ☁️ Passionate about building scalable, automated cloud infrastructure using **AWS**, **Terraform**, and **Docker**.  
 - 🛠️ Automating CI/CD pipelines with **GitHub Actions** and **best DevOps practices**.  
 - 📚 Sharing my learning journey through blogs — [**DevOps Diaries**](https://blog.abdulraheem.cloud).  
-- 💼 Currently building my [**DevOps Project Portfolio**](https://github.com/abdulraheem381/DevOps-portfolio) — hands-on projects with real-world AWS use cases.  
+- 💼 Currently building my [**DevOps Project Portfolio**](https://github.com/abdulraheem381/DevOps-projects-portfolio) — hands-on projects with real-world AWS use cases.  
 - 🌱 Learning **Kubernetes**, **Monitoring (Prometheus + Grafana)**, and **advanced CI/CD orchestration**.  
 - 🤝 Open to collaborations, and remote DevOps/Cloud roles.  
 
