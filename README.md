@@ -1,65 +1,69 @@
 <h1 align="center">👋 Hey, I'm Abdul Raheem</h1>
 <p align="center">
-  🚀 Cloud & DevOps Engineer | AWS Infrastructure Automation | Open Source Enthusiast
+  🤖 AI/ML Enthusiast | Exploring Data, Models & Intelligence | Tech Creator
 </p>
 
 ---
 
 ### 🧠 About Me  
 
-- ☁️ Passionate about building scalable, automated cloud infrastructure using **AWS**, **Terraform**, and **Docker**.  
-- 🛠️ Automating CI/CD pipelines with **GitHub Actions** and **best DevOps practices**.  
-- 📚 Sharing my learning journey through blogs — [**DevOps Diaries**](https://blog.abdulraheem.cloud).  
-- 💼 Currently building my [**DevOps Project Portfolio**](https://github.com/abdulraheem381/DevOps-projects-portfolio) — hands-on projects with real-world AWS use cases.  
-- 🌱 Learning **Kubernetes**, **Monitoring (Prometheus + Grafana)**, and **advanced CI/CD orchestration**.  
-- 🤝 Open to collaborations, and remote DevOps/Cloud roles.  
+- 🧩 Passionate about **Artificial Intelligence** and **Machine Learning** — exploring how data becomes intelligence.  
+- 🐍 Currently mastering **Python**, **Data Science**, **Machine Learning**, and **Deep Learning**.  
+- 💡 Building hands-on projects to understand end-to-end workflows — from **data preprocessing** to **model deployment**.  
+- 📚 Documenting my learning journey through posts, notebooks, and open-source contributions.  
+- 🌱 Exploring areas like **Computer Vision**, **NLP**, and **MLOps** (where AI meets DevOps).  
+- 🤝 Open to collaborations on **AI/ML projects**, research experiments, or innovative ideas.  
 
 ---
 
 ### ⚙️ Tech Stack & Tools  
 
-#### 🚀 Cloud & Infrastructure  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#### 🧩 CI/CD & Containers  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-#### 📊 Monitoring & Scripting  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+#### 🤖 Core AI/ML  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+#### 🧠 Data & MLOps  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
 ### 💼 Featured Projects  
 
-📂 **[DevOps Portfolio](https://github.com/abdulraheem381/DevOps-portfolio)**  
-_Real-world DevOps projects showcasing AWS automation, Terraform IaC, and CI/CD pipelines._
+📊 **[AI-ML Projects Portfolio](https://github.com/abdulraheem381/AI-ML-Projects)**  
+_Hands-on projects covering data preprocessing, model building, and deployment._
 
-🐍 **[100 Days of Code – Python](https://github.com/abdulraheem381/100-days-of-code-python)**  
-_Hands-on Python projects and exercises following Dr. Angela Yu’s bootcamp._
+🤖 **[ML From Scratch Series](https://github.com/abdulraheem381/ML-From-Scratch)**  
+_Implementing core ML algorithms to deeply understand how models learn._
+
+🐍 **[Python for Data Science](https://github.com/abdulraheem381/python-for-data-science)**  
+_Exploring Python libraries like Pandas, NumPy, and Matplotlib through mini projects._
 
 ---
 
-### 📝 Latest Blog Articles  
+### 📝 Learning & Sharing  
 
-📘 Read on my Hashnode blog → [**DevOps Diaries**](https://blog.abdulraheem.cloud)
+📘 Follow my blog → [**AI Chronicles**](https://blog.abdulraheem.cloud)  
+> 🚀 Recent: *“The Mind of a Machine — Understanding How Models Learn”*  
 
-> 🚀 Recent: [DevOps Explained: Principles, Practices, Tools & Future Trends ⚡](https://blog.abdulraheem.cloud/devops-explained-principles-practices-tools-future-trends)
+📊 You’ll also find me sharing insights, notebooks, and experiments on [**Kaggle**](https://www.kaggle.com).  
 
 ---
 
 ### 🌐 Connect With Me  
 
 📧 **Email:** shadowpulse.pentest@gmail.com  
-🧠 **Blog:** [abdulraheem.hashnode.dev](https://blog.abdulraheem.cloud)  
-🐦 **Twitter/X:** [@Abdulraheem183](https://x.com/Abdulraheem183)  
-💼 **Portfolio:** [abdulraheem.cloud](https://abdulraheem.cloud)
+🐦 **X (Twitter):** [@Abdulraheem183](https://x.com/Abdulraheem183)  
+💼 **Portfolio:** [abdulraheem.cloud](https://abdulraheem.cloud)  
+📊 **Kaggle:** [abdulraheem381](https://www.kaggle.com/abdulraheem381)  
 
 ---
 
@@ -71,5 +75,5 @@ _Hands-on Python projects and exercises following Dr. Angela Yu’s bootcamp._
 ---
 
 <p align="center">
-  ⚡ "Automate. Optimize. Scale. — Building the future, one YAML file at a time." ⚡
+  ⚡ "Learn. Build. Share. — Training my mind and machines, one model at a time." ⚡
 </p>
