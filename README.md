@@ -13,7 +13,6 @@
 - 🔁 Designing and maintaining **CI/CD pipelines** for faster and reliable releases.
 - 🧩 Infrastructure as Code using **Terraform** for reproducible environments.
 - 🤖 Exploring **GenAI & Agentic AI** use cases in DevOps (AI-powered automation, monitoring, and remediation).
-- 📈 Goal-oriented learner preparing for **global DevOps roles & visa-sponsored opportunities**.
 - 🤝 Open to **DevOps, Cloud, and Automation** collaborations.
 
 ---
